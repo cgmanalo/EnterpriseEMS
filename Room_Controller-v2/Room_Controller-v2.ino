@@ -169,7 +169,15 @@ void loop() {
               sendReply("LIGHT1 is OFF.");
           }
       }
-      
+     else if(serialData == "TOG-ACU1A"){
+          bool TOGGLEResult = OPERACU1A("TOG");
+          if (TOGGLEResult){
+              sendReply("ACU1A is ON.");
+          }
+          else{
+              sendReply("ACU1A is OFF.");
+          }
+      } 
       else{
           Serial.println(serialData);
       }
@@ -518,6 +526,20 @@ bool OPERLight1(String Operation){
   }
   delay(10);
   return(digitalRead(lighting1Pin));
+  
+}
+bool OPERACU1A(String Operation){
+  if (Operation == "ON"){
+      digitalWrite(ACU1A,HIGH);
+  }
+  else if(Operation == "OFF"){
+      digitalWrite(ACU1A,LOW);
+  }
+  else if(Operation == "TOG"){
+      digitalWrite(ACU1A,!digitalRead(ACU1A));
+  }
+  delay(10);
+  return(digitalRead(ACU1A));
 }
 
 void sendReply(String replyMessage){
