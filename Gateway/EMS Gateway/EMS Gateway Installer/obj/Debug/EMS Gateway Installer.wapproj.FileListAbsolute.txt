@@ -1,0 +1,24 @@
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\EMS Gateway\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\EMS Gateway\EMS Gateway.exe.config
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\EMS Gateway\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\resources.pri
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\AppxManifest.xml
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\EMS Gateway Installer.build.appxrecipe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\EMS Gateway Installer.wapprojAssemblyReference.cache
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\priconfig.xml
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\priconfig.xml.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\unfiltered.layout.resfiles
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\filtered.layout.resfiles
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\excluded.layout.resfiles
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\resources.resfiles
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\resources.resfiles.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\pri.resfiles
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\pri.resfiles.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\qualifiers.txt
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\qualifiers.txt.intermediate
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\ProjectArchitectures.txt
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\EMS Gateway Installer.wapproj.LastBuild.txt

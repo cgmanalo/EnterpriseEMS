@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Latest%20Projects/Calingasan-Eugenio/Gateway/EMS%20Gateway/EMS%20Gateway%20Installer/EMS%20Gateway%20Installer.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="95c0ae93-f7ad-450e-9a5f-216bbf48cf9e"
+		Version="1.0.1.0"
+		Publisher="CN=Cesar G. Manalo Jr."
+		Uri="file:///C:/Latest%20Projects/Calingasan-Eugenio/Gateway/EMS%20Gateway/EMS%20Gateway%20Installer/EMS%20Gateway%20Installer_1.0.1.0_Debug_Test/EMS%20Gateway%20Installer_1.0.1.0_AnyCPU_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

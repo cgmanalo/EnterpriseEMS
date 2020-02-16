@@ -1,0 +1,15 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\filemap.pri"			"resources.pri"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\EMS Gateway\EMS Gateway.exe.config"			"EMS Gateway\EMS Gateway.exe.config"
+"C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\PackageLayout\EMS Gateway\EMS Gateway.exe"			"EMS Gateway\EMS Gateway.exe"

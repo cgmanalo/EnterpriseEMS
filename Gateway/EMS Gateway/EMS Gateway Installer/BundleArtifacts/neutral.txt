@@ -1,0 +1,2 @@
+MainPackage=C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\bin\AnyCPU\Debug\EMS Gateway Installer_1.0.1.0_AnyCPU_Debug.msix
+SymbolPackage=C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway Installer\obj\Debug\Symbols\EMS Gateway Installer_1.0.1.0_AnyCPU_Debug.appxsym

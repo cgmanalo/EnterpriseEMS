@@ -1,0 +1,37 @@
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.config
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\bin\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\bin\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS_Gateway.MainForm.resources
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS_Gateway.Properties.Resources.resources
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS Gateway.csproj.GenerateResource.cache
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\EMS Gateway\obj\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.config
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\bin\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\bin\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS_Gateway.MainForm.resources
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS_Gateway.Properties.Resources.resources
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS Gateway.csproj.GenerateResource.cache
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\Gateway\EMS Gateway\obj\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.config
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\bin\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\bin\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\bin\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS_Gateway.MainForm.resources
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS_Gateway.Properties.Resources.resources
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.csproj.GenerateResource.cache
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe.manifest
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.application
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.exe
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.pdb
+C:\Latest Projects\Calingasan-Eugenio\EnterpriseEMS\Gateway\EMS Gateway\obj\Debug\EMS Gateway.csprojAssemblyReference.cache
