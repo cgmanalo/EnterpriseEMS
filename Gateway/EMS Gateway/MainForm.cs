@@ -456,25 +456,25 @@ namespace EMS_Gateway
             TimerMain.Enabled = false;
             if (Int16.Parse(EnrolledStudents.Text) > 15){
                 SerialPort.WriteLine("~~~LIGHT1|ON^^^");
-                Thread.Sleep(2000);
+                Thread.Sleep(3000);
                 SerialPort.WriteLine("~~~ACU1A|ON^^^");
-                Thread.Sleep(2000);
+                Thread.Sleep(3000);
                 SerialPort.WriteLine("~~~ACU1B|ON^^^");
             }
             else
             {
                 SerialPort.WriteLine("~~~LIGHT1|ON^^^");
-                Thread.Sleep(2000);
+                Thread.Sleep(3000);
                 if (ACU1AButton.Text == "ON")
                 {
                     SerialPort.WriteLine("~~~ACU1A|OFF^^^");
-                    Thread.Sleep(2000);
+                    Thread.Sleep(3000);
                     SerialPort.WriteLine("~~~ACU1B|ON^^^");
                 }
                 else
                 {
                     SerialPort.WriteLine("~~~ACU1A|ON^^^");
-                    Thread.Sleep(2000);
+                    Thread.Sleep(3000);
                     SerialPort.WriteLine("~~~ACU1B|OFF^^^");
                 }
             }

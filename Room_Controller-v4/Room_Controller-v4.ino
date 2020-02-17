@@ -191,7 +191,7 @@ bool GetSerialData(){
                       while(millis()-Start_Timer < 100){
                         Data_Char = Serial.read();
                         if(Data_Char == END_FLAG){
-                          //Data_Field[i++] = '\0';
+                          Data_Field[i++] = '\0';
                           return true;
                         }
                         else if(Data_Char != -1){
